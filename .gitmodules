@@ -1,0 +1,6 @@
+[submodule "ProSub1"]
+	path = ProSub1
+	url = https://github.com/Phan199112/ProSub1.git
+[submodule "ProSub2"]
+	path = ProSub2
+	url = https://github.com/Phan199112/ProSub2.git
